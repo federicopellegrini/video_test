@@ -1,7 +1,7 @@
 
 
 
-![video](https://user-images.githubusercontent.com/101673906/158496131-46d31c3a-9b1c-48d7-bfaa-5bafafcead59.mp4)
+[chad](https://user-images.githubusercontent.com/101673906/158496131-46d31c3a-9b1c-48d7-bfaa-5bafafcead59.mp4)
 
 
 ## Welcome to GitHub Pages
